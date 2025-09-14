@@ -23,34 +23,35 @@ This app allows users to add, update, delete, and mark tasks as completed.
 ---
 
 ## 📂 Project Structure
-ToDoList/
-│── src/java/
-│   ├── com.todo.controller/
-│   │     ├── LoginServlet.java
-│   │     ├── RegisterServlet.java
-│   │     ├── AddTodoServlet.java
-│   │     ├── EditTodoServlet.java
-│   │     └── DeleteTodoServlet.java
-│   │
-│   ├── com.todo.dao/
-│   │     ├── UserDAO.java
-│   │     └── TodoDAO.java
-│   │
-│   └── com.todo.model/
-│         ├── User.java
-│         └── Todo.java
-│
-│── web/
-│   ├── WEB-INF/
-│   │     └── web.xml
-│   ├── login.jsp
-│   ├── register.jsp
-│   ├── home.jsp
-│   └── edit.jsp
-│
-│── nbproject/   (ignore, NetBeans configs)
-│── build.xml    (ignore, auto-generated)
+ToDoList/<br/>
+│── src/java/<br/>
+│   ├── com.todo.controller/<br/>
+│   │     ├── LoginServlet.java<br/>
+│   │     ├── RegisterServlet.java<br/>
+│   │     ├── AddTodoServlet.java<br/>
+│   │     ├── EditTodoServlet.java<br/>
+│   │     └── DeleteTodoServlet.java<br/>
+│   │<br/>
+│   ├── com.todo.dao/<br/>
+│   │     ├── UserDAO.java<br/>
+│   │     └── TodoDAO.java<br/>
+│   │<br/>
+│   └── com.todo.model/<br/>
+│         ├── User.java<br/>
+│         └── Todo.java<br/>
+│<br/>
+│── web/<br/>
+│   ├── WEB-INF/<br/>
+│   │     └── web.xml<br/>
+│   ├── login.jsp<br/>
+│   ├── register.jsp<br/>
+│   ├── home.jsp<br/>
+│   └── edit.jsp<br/>
+│<br/>
+│── nbproject/   (ignore, NetBeans configs)<br/>
+│── build.xml    (ignore, auto-generated)<br/>
 
-
+<br/>
+<br/>
 
 <b>MCA Sem-3 Advance Java Assignment ;)</b>
